@@ -5,34 +5,35 @@ public class Opdrachten
 {
     public Opdrachten()
     {
-        // Opdracht1komma1();
-
-        // Opdracht1komma2();
-
-        // Begroeting("niklas");
-
-        // int result = Max(25, 25);
-        // Console.WriteLine(result);
-
-        // int attack = BerekenSchade(25, 45);
-        // Console.WriteLine(attack);
-
-        // Opdracht1komma6();
-
-        // Opdracht1komma7();
-
-        // Opdracht1komma8();
-
-        // Player player1 = new Player("jeff", 100, 25);
-        // Opdracht1komma9(player1);
-
-        // Player player1 = new Player("jeff", 100, 25);
-        // Player player2 = new Player("bezos", 20, 999);
-        // Player player3 = new Player("arnold", 21, 22);
-        // Player[] players = {player1, player2, player3};
-        // Opdracht1komma10(players);
-
-        // Opdracht1komma11();
+        Console.WriteLine("Opdracht 1:");
+        Opdracht1komma1();
+        Console.WriteLine("Opdracht 2:");
+        Opdracht1komma2();
+        Console.WriteLine("Opdracht 3:");
+        Begroeting("niklas");
+        Console.WriteLine("Opdracht 4:");
+        int result = Max(25, 25);
+        Console.WriteLine(result);
+        Console.WriteLine("Opdracht 5:");
+        int attack = BerekenSchade(25, 45);
+        Console.WriteLine(attack);
+        Console.WriteLine("Opdracht 6:");
+        Opdracht1komma6();
+        Console.WriteLine("Opdracht 7:");
+        Opdracht1komma7();
+        Console.WriteLine("Opdracht 8:");
+        Opdracht1komma8();
+        Console.WriteLine("Opdracht 9:");
+        Player player1 = new Player("jeff", 100, 25);
+        Opdracht1komma9(player1);
+        Console.WriteLine("Opdracht 10:");
+        Player player = new Player("jeff", 100, 25);
+        Player player2 = new Player("bezos", 20, 999);
+        Player player3 = new Player("arnold", 21, 22);
+        Player[] players = {player, player2, player3};
+        Opdracht1komma10(players);
+        Console.WriteLine("Opdracht 11:");
+        Opdracht1komma11();
     }
     private void Opdracht1komma1()
     {
