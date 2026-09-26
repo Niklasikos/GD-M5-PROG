@@ -13,12 +13,12 @@ public class ScoreBoard : MonoBehaviour
 
     void OnEnable()
     {
-        Pickup.ScoreAdd += ScoreAdded;
+        Pickup.OnPickup += ScoreAdded;
     }
 
     void OnDisable()
     {
-        Pickup.ScoreAdd -= ScoreAdded;
+        Pickup.OnPickup -= ScoreAdded;
     }
 
     private void ScoreAdded(int points)

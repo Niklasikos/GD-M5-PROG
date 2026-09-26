@@ -32,4 +32,13 @@ Mijn PROG Files voor M5
 
 >Uitleg: Met C# Action Events gewerkt en de bonus opdracht gemaakt
 
->Evaluatie: Ik ben moe en ga slapen
+>Evaluatie: meer kennis over Action Events, leuk
+
+## Les 03
+
+### Opdrachten zitten in [deze file](/ReadMeFiles/Les03.md)
+> Uitleg: gewerkt met debugging tools zoals breakpoints en het documenteren van bugs
+
+> Evaluatie: het is meer werk maar ja, beter terug te vinden
+
+## Les 04
