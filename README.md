@@ -42,3 +42,8 @@ Mijn PROG Files voor M5
 > Evaluatie: het is meer werk maar ja, beter terug te vinden
 
 ## Les 04
+
+### Opdracht zit in [dit Repo](https://github.com/Niklasikos/Space48Opdracht)
+> Uitleg: gewerkt met SRP en DRY Principles van Solid
+
+> Evaluatie: goed om meer te weten toch
