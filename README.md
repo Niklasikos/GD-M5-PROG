@@ -46,4 +46,16 @@ Mijn PROG Files voor M5
 ### Opdracht zit in [dit Repo](https://github.com/Niklasikos/Space48Opdracht)
 > Uitleg: gewerkt met SRP en DRY Principles van Solid
 
-> Evaluatie: goed om meer te weten toch
+> Evaluatie: goed om meer te weten
+
+## Les 05 
+
+### Opdracht zit in [deze map](/Prog_M5Unity/M5%20PROG/)
+
+![gif](/ReadmeImgs/Opdracht5.gif)
+
+[Link naar code(map)](/Prog_M5Unity/M5%20PROG/Assets/Scripts/Les05/)
+
+> Uitleg: gewerkt met inherritance van C# classes
+
+> Evaluatie: met 3d werken is altijd hoofdpijn/leuk
