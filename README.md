@@ -59,3 +59,21 @@ Mijn PROG Files voor M5
 > Uitleg: gewerkt met inherritance van C# classes
 
 > Evaluatie: met 3d werken is altijd hoofdpijn/leuk
+
+## Les 06
+
+### Pdf is [hier](/ReadMeFiles/dependancy%20list.pdf)
+
+### De Scripts zitten hier
+> [MainGameManager](https://github.com/Niklasikos/M5-BO-TowerDefense/blob/main/Assets/Scripts/Boot/MainGameManager.cs)  
+> [Enemy](https://github.com/Niklasikos/M5-BO-TowerDefense/blob/main/Assets/Scripts/Enemy/Enemy.cs)  
+> [SpawnGroup](https://github.com/Niklasikos/M5-BO-TowerDefense/blob/main/Assets/Scripts/Spawners/SpawnGroup.cs)    
+> [Wave](https://github.com/Niklasikos/M5-BO-TowerDefense/blob/main/Assets/Scripts/Spawners/Wave.cs)   
+> [LevelManager](https://github.com/Niklasikos/M5-BO-TowerDefense/blob/main/Assets/Scripts/Managers/LevelManager.cs)    
+> [LevelSelectManager](https://github.com/Niklasikos/M5-BO-TowerDefense/blob/main/Assets/Scripts/Managers/LevelSelectManager.cs)    
+> [WaveManager](https://github.com/Niklasikos/M5-BO-TowerDefense/blob/main/Assets/Scripts/Managers/WaveManager.cs)    
+> [Projectile](https://github.com/Niklasikos/M5-BO-TowerDefense/blob/main/Assets/Scripts/Projectile.cs)
+
+> Uitleg: gewerkt met getters en setters
+
+> Evaluatie: Pain in the ass
